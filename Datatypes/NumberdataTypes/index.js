@@ -1,4 +1,3 @@
-"use strict";
 // Number Data Type
 // • Apply number data type
 // • Redeclare issue
@@ -7,9 +6,8 @@
 // • Convert string to number
 // • Type Inference with number
 // • Decimal with number data type
-Object.defineProperty(exports, "__esModule", { value: true });
 var num1 = 10;
 var num2 = 20;
 var newNum = num1 + num2;
 console.log("this sum of two number is => " + newNum);
-//# sourceMappingURL=index.js.map
+export {};

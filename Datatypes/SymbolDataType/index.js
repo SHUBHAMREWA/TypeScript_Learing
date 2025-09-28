@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var sym = Symbol("id");
 var sym2 = Symbol("id");
 console.log(sym == sym2);
@@ -9,4 +7,4 @@ for (let i = 0; i < 5; i++) {
     obj[newSymbol] = i + 1;
 }
 console.log(obj);
-//# sourceMappingURL=index.js.map
+export {};
